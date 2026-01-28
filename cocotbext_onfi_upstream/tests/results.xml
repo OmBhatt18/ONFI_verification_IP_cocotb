@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1750786654" />
+    <testcase name="test_block_erase" classname="test_onfi" file="/home/om/tests/cocotbext-onfi/tests/test_onfi.py" lineno="98" time="111.8893609046936" sim_time_ns="447240.0" ratio_time="3997.162879328225">
+      <failure message="Test failed with RANDOM_SEED=1750786654" />
+    </testcase>
+  </testsuite>
+</testsuites>
